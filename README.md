@@ -9,12 +9,12 @@ Since 2018 I'm working as a senior full-stack web developer for a German company
 My work-based experience already encountered PHP, Python, ColdFusion, C#, C++, VB.net, Java, JavaScript, AutoHotKey, bash and batch.
 
 ### Interests'n stuff
-I'm interested in digital Music production. Music in general is very important to me, as I highly enjoy live music and festivals.
+I'm interested in digital Music production using products from Ableton, NativeInstruments and xFer Records. Music in general is very important to me, as I highly enjoy live music and festivals.
 I love the outdoors. I embrace the joys of hiking, canoeing, camping, fireplaces, night skies, plants and animals. Travelling is also a part of my life.
 One of my mottos is "Embrace doing less", as I always aim for the minimalist approach, although I don't always achieve minimalist outcome.
 
 ### I'm currently learning...
-- Electronic skills. Soldering, wiring, switching and all that comes home automation.
+- Electronic skills. Soldering, wiring, switching and all that comes with home automation.
 - Handcrafting skills. Like building my own kitchen and furniture from scratch.
 - Markdown - as you can tell...
 

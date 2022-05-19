@@ -1,52 +1,32 @@
-## Hi, my name is Jan Nox
-Originated on planet earth, I've been developing software with PHP already back in 2005. So my experience is now 16 Earth years old.
+# Hi, I'm Jan
+### Who Am I?
+I'm a web developer, 31 earth years of age.
+I've already been developing PHP pages back 17 earth years.
+Fast-forward another nine earth years ago, then I'll finish vocational training as a software developer.
 
-In 2013, I've finished vocational training as software developer in Germany. Professional experience is 8 years old.
+Since then, I've come across multiple different jobs, which all brought me many experiences and a lot of knowledge.
 
-Since 2018 I'm working as a senior full-stack web developer for a German company. Despite all the _linty_ code of that 10 years old piece of >700k lines of legacy software, I'm quite happy here, you can tell.
+Since 2018 I'm working as a senior full-stack web developer for a German company. Despite all the _linty_ code of that 13-year-old "piece" of >700k lines of legacy software, I'm rather happy here.
 
-### Language is a tool
-My work-based experience already encountered PHP, Python, ColdFusion, C#, C++, VB.net, Java, JavaScript, AutoHotKey, bash and batch.
+### Language Is a Tool
+I've already worked with some different languages. Of course, PHP is my main discipline. But also, I fluently speak JavaScript, Python, bash, and batch.
 
-### Interests'n stuff
-I'm interested in digital Music production using products from Ableton, NativeInstruments and xFer Records. Music in general is very important to me, as I highly enjoy live music and festivals.
-I love the outdoors. I embrace the joys of hiking, canoeing, camping, fireplaces, night skies, plants and animals. Travelling is also a part of my life.
-One of my mottos is "Embrace doing less", as I always aim for the minimalist approach, although I don't always achieve minimalist outcome.
+### Private Interests
+- 🎧 Music, in general, is THE most important thing for me. I frequently enjoy live music and festivals.
+- 🎹 Digital Music production using products from Ableton, NativeInstruments, and xFer Records. Also, I play several instruments.
+- 🥾 I love the outdoors. I embrace the joys of hiking, canoeing, camping, fireplaces, night skies, plants, and animals.
+- 🚊 Travelling and learning historic facts about my destinations.
+- 🎮 There's nothing wrong about spending a good night gaming.
 
-### I'm currently learning...
-- Electronic skills. Soldering, wiring, switching and all that comes with home automation.
-- Handcrafting skills. Like building my own kitchen and furniture from scratch.
-- Markdown - as you can tell...
+### Motto
+- "Embrace doing less"
+
+### Never Stop Learning!
+- ⚡ Electronic skills. Soldering, switching and all that comes with home automation.
+- 🛠 Handcrafting skills. e.g. some of my furniture and my kitchen are self-built.
+- 🏍 Motorcycling (learner driver)
 
 Have a 🥝!
 
-### Contact
-📫 jan.nox@pm.me
-
-### Projects
-My projects are suitable for many use cases. Originally developed for multi-level B2B marketing, I've also used it for IMS, booking-calendars, vehicle management and automation.
-The latter is the most active project, since I'm learning and progressing the most in this topic.
-
-|Project       |Repository                                 |Lines|QualityGate|Packagist|
-|--------------|:------------------------------------------|:-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------|
-|``noxkiwi\bucket``|[GitHub](https://github.com/noxkiwi/bucket)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_bucket&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_bucket&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/bucket)|
-|``noxkiwi\cache``|[GitHub](https://github.com/noxkiwi/cache)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_cache&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_cache&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/cache)|
-|``noxkiwi\core``|[GitHub](https://github.com/noxkiwi/core)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_core&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_core&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/core)|
-|``noxkiwi\crud``|[GitHub](https://github.com/noxkiwi/crud)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_crud&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_crud&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/crud)|
-|``noxkiwi\dataabstraction``|[GitHub](https://github.com/noxkiwi/dataabstraction)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_dataabstraction&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_dataabstraction&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/dataabstraction)|
-|``noxkiwi\database``|[GitHub](https://github.com/noxkiwi/database)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_database&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_database&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/database)|
-|``noxkiwi\hook``|[GitHub](https://github.com/noxkiwi/hook)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_hook&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_hook&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/hook)|
-|``noxkiwi\lightsystem``|[GitHub](https://github.com/noxkiwi/lightsystem)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_lightsystem&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_lightsystem&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/lightsystem)|
-|``noxkiwi\log``|[GitHub](https://github.com/noxkiwi/log)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_log&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_log&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/log)|
-|``noxkiwi\mailer``|[GitHub](https://github.com/noxkiwi/mailer)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_mailer&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_mailer&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/mailer)|
-|``noxkiwi\modal``|[GitHub](https://github.com/noxkiwi/modal)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_modal&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_modal&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/modal)|
-|``noxkiwi\money``|[GitHub](https://github.com/noxkiwi/money)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_money&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_money&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/money)|
-|``noxkiwi\observing``|[GitHub](https://github.com/noxkiwi/observing)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_observing&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_observing&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/observing)|
-|``noxkiwi\queue``|[GitHub](https://github.com/noxkiwi/queue)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_queue&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_queue&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/queue)|
-|``noxkiwi\rest``|[GitHub](https://github.com/noxkiwi/rest)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_rest&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_rest&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/rest)|
-|``noxkiwi\rewrite``|[GitHub](https://github.com/noxkiwi/rewrite)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_rewrite&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_rewrite&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/rewrite)|
-|``noxkiwi\singleton``|[GitHub](https://github.com/noxkiwi/singleton)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_singleton&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_singleton&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/singleton)|
-|``noxkiwi\stack``|[GitHub](https://github.com/noxkiwi/stack)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_stack&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_stack&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/stack)|
-|``noxkiwi\translator``|[GitHub](https://github.com/noxkiwi/translator)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_translator&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_translator&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/translator)|
-|``noxkiwi\validator``|[GitHub](https://github.com/noxkiwi/validator)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_validator&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_validator&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/validator)|
-|``noxkiwi\value``|[GitHub](https://github.com/noxkiwi/value)|![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_value&metric=ncloc)|![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=noxkiwi_value&metric=alert_status&token=)|[packagist](https://packagist.org/packages/noxkiwi/value)|
+### Contact Me!
+- 📫 jan.nox@pm.me

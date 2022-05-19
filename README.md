@@ -2,7 +2,7 @@
 ### Who Am I?
 I'm a web developer, 31 earth years of age.
 I've already been developing PHP pages back 17 earth years.
-Fast-forward another nine earth years ago, then I'll finish vocational training as a software developer.
+Fast-forward another nine earth years, then I'll finish vocational training as a software developer.
 
 Since then, I've come across multiple different jobs, which all brought me many experiences and a lot of knowledge.
 

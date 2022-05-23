@@ -6,9 +6,9 @@ Fast-forward another nine earth years, then I'll finish vocational training as a
 
 Since then, I've come across multiple different jobs, which all brought me many experiences and a lot of knowledge.
 
-Since 2018 I'm working as a senior full-stack web developer for a German company. Despite all the _linty_ code of that 13-year-old "piece" of >700k lines of legacy software, I'm rather happy here.
+Since 2018 I've worked as a senior full-stack web developer for a German company. Despite all the _linty_ code of that 13-year-old "piece" of >700k lines of legacy software, I'm rather happy here.
 
-### Language Is a Tool
+### A Language Is a Tool
 I've already worked with some different languages. Of course, PHP is my main discipline. But also, I fluently speak JavaScript, Python, bash, and batch.
 
 ### Private Interests

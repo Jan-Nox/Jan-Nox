@@ -4,11 +4,10 @@ I'm a software developer, 31 years of age. I've already been developing PHP page
 
 Since then, I've come across a variety of jobs in different industries. All of them brought me many experiences in quite some languages.
 
-After five years of learning and giving my best. In June, I will switch into a new position.
-
+After five years of learning and giving my best, in June, I will switch into a new position.
 
 ### Language Is a Tool
-I've already worked with several programming languages. Of course, ``PHP`` is my main discipline. 
+I've already worked with several programming languages. Of course, ``PHP`` is my main discipline.
 I also fluently speak ``JavaScript``, ``Python``, ``bash``, and ``batch``.
 Also, I've already worked with ``C#``, ``C++``, ``VB.net``, ``ColdFusion`` and ``AutoHotKey``.
 

@@ -6,6 +6,9 @@ I'm a passionate **software developer**, born in 1991, with a journey that start
 ## Language Is a Tool
 While ``PHP`` remains my forte, I'm equally proficient in ``JavaScript``, ``Python``, ``Bash``, and ``Batch``. My diverse toolkit also includes experience with ``C#``, ``C++``, ``VB.net``, ``Cold Fusion``, and ``AutoHotKey``.
 
+## Projects
+During my daytime time job at [it-novum](https://github.com/it-novum), I work on [openITCOCKPIT](https://openitcockpit.io). At night, I am actively developing several other software projects, including [validator](https://validator.nox.kiwi) and [value](https://value.nox.kiwi). Additionally, I'm working on two Hugo-based blogs: one focused on technology and the other dedicated to cooking and recipes. I also have another project in the works, which I hope will evolve into a music-based mobile game one day.
+
 ## Private Interests
 - 🎧 **Music Enthusiast**: Music is my lifeblood. I thrive on live music experiences and frequent festivals.
 - 🥾 **Outdoor Adventurer**: Hiking, canoeing, camping, and stargazing are my escapes. I cherish the natural world and all its wonders.
@@ -18,7 +21,7 @@ While ``PHP`` remains my forte, I'm equally proficient in ``JavaScript``, ``Pyth
 - *"Embrace doing less."*
 
 ## Never Stop Learning!
-- 👨‍💻 Staying ahead in **software technologies** like ``Angular 17`` and ``CakePHP 5``.
+- 👨‍💻 Staying ahead in **software technologies** like ``Angular 17``, ``Hugo`` and ``CakePHP 5``.
 - 🔐 Delving into **IT security**, privacy, and cryptography.
 - 🏠 Advancing **home automation** with Home Assistant and various HACS integrations.
 - 🔧 Performing **repairs and fixes** for my bicycle and motorbike.

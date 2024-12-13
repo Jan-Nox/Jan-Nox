@@ -1,0 +1,45 @@
+baseURL: "https://jandev.nox.kiwi"
+defaultContentLanguage: "en"
+enableEmoji: true
+enableRobotsTXT: true
+languageCode: "en"
+pygmentsStyle: "monokai"  # Choose one of emacs, trac or perldoc
+theme: "gokarna"
+title: "Jan Nox"
+
+params:
+  avatarAltText : "avatar"
+  avatarSize : "size-m"
+  avatarURL : "/images/avatar.png"
+
+  description : "Embrace doing less."
+  footer: "Jan Nox"
+  metaKeywords:
+    - "Jan"
+    - "Nox"
+  showBackToTopButton: true
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Jan-Nox"
+    - name: "email"
+      url: "mailto:jan@nox.kiwi"
+
+menu:
+  main:
+    - name: "Home"
+      pre: "<span data-feather='home'></span>"
+      url: "/"
+      weight: 1
+    - name: "About"
+      pre: "<span data-feather='user'></span>"
+      url: "/about/"
+      weight: 2
+    - name: "Projects"
+      pre: "<span data-feather='code'></span>"
+      url: "/projects/"
+      weight: 3
+
+minify:
+  minifyOutput: true
+

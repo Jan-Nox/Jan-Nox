@@ -1,7 +1,7 @@
 baseURL: "https://jandev.nox.kiwi"
 defaultContentLanguage: "en"
 enableEmoji: true
-enableRobotsTXT: true
+enableRobotsTXT: false
 languageCode: "en"
 pygmentsStyle: "monokai"  # Choose one of emacs, trac or perldoc
 theme: "gokarna"

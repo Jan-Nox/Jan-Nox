@@ -1,0 +1,3 @@
+# Leave me here.
+User-agent: *
+Disallow: /

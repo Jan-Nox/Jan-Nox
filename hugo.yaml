@@ -10,7 +10,7 @@ title: "Jan Nox"
 params:
   avatarAltText : "avatar"
   avatarSize : "size-m"
-  avatarURL : "/images/avatar.png"
+  avatarURL : "/images/avatar.webp"
 
   description : "Embrace doing less."
   footer: "Jan Nox"

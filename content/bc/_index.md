@@ -4,6 +4,6 @@ type: page
 ---
 
 
-# [📞](tel:+4917640426400)
-# [📧](mailto:jan@nox.kiwi)
-# [Whatsapp](https://wa.me/4917640426400)
+# [📞 Anrufen](tel:+4917640426400)
+# [📧 EMail](mailto:jan@nox.kiwi)
+# [📝 Whatsapp](https://wa.me/4917640426400)
